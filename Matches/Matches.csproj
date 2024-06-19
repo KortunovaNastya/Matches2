@@ -1,0 +1,68 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\-wu1rXbfNOiFpfSeGZG_gMr6IXJcV3-TvHwsZScuE1PDwktLOoFDO4s_b_YOUr14nx5hlSfsk7BB35nvR8UM5THc 1.png" />
+    <None Remove="Images\Ellipse 7.png" />
+    <None Remove="Images\Group 1.png" />
+    <None Remove="Images\Group 2.png" />
+    <None Remove="Images\icons8-heart-80 1.png" />
+    <None Remove="Images\icons8-гость-мужчина-48 1.png" />
+    <None Remove="Images\icons8-крестик-78.png" />
+    <None Remove="Images\icons8-маркер-64 6.png" />
+    <None Remove="Images\icons8-плюс-48.png" />
+    <None Remove="Images\icons8-поиск-96 %281%29 1.png" />
+    <None Remove="Images\icons8-прикрепить-96.png" />
+    <None Remove="Images\image 1.png" />
+    <None Remove="Images\image 2.png" />
+    <None Remove="Images\image 3.png" />
+    <None Remove="Images\image 4 %281%29.png" />
+    <None Remove="Images\image 4.png" />
+    <None Remove="Images\image 5.png" />
+    <None Remove="Images\image 6.png" />
+    <None Remove="Images\image 7.png" />
+    <None Remove="Images\image 8.png" />
+    <None Remove="Images\image 9 %281%29.png" />
+    <None Remove="Images\image 9.png" />
+    <None Remove="Images\main.png" />
+    <None Remove="Images\Rectangle 16.png" />
+    <None Remove="Images\Rectangle 9.png" />
+    <None Remove="Images\Subtract.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\-wu1rXbfNOiFpfSeGZG_gMr6IXJcV3-TvHwsZScuE1PDwktLOoFDO4s_b_YOUr14nx5hlSfsk7BB35nvR8UM5THc 1.png" />
+    <Resource Include="Images\Ellipse 7.png" />
+    <Resource Include="Images\Group 1.png" />
+    <Resource Include="Images\Group 2.png" />
+    <Resource Include="Images\icons8-heart-80 1.png" />
+    <Resource Include="Images\icons8-гость-мужчина-48 1.png" />
+    <Resource Include="Images\icons8-крестик-78.png" />
+    <Resource Include="Images\icons8-маркер-64 6.png" />
+    <Resource Include="Images\icons8-плюс-48.png" />
+    <Resource Include="Images\icons8-поиск-96 (1) 1.png" />
+    <Resource Include="Images\icons8-прикрепить-96.png" />
+    <Resource Include="Images\image 1.png" />
+    <Resource Include="Images\image 2.png" />
+    <Resource Include="Images\image 3.png" />
+    <Resource Include="Images\image 4 (1).png" />
+    <Resource Include="Images\image 4.png" />
+    <Resource Include="Images\image 5.png" />
+    <Resource Include="Images\image 6.png" />
+    <Resource Include="Images\image 7.png" />
+    <Resource Include="Images\image 8.png" />
+    <Resource Include="Images\image 9 (1).png" />
+    <Resource Include="Images\image 9.png" />
+    <Resource Include="Images\main.png" />
+    <Resource Include="Images\Rectangle 16.png" />
+    <Resource Include="Images\Rectangle 9.png" />
+    <Resource Include="Images\Subtract.png" />
+  </ItemGroup>
+
+</Project>
